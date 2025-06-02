@@ -99,3 +99,7 @@ body {
 .escondido {
     display: none !important;
 }
+
+footer {
+	text-align: center;
+}
