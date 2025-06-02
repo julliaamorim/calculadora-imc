@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     color: var(--cor-textual);
+    flex-direction: column;
 }
 
 .card {
